@@ -93,5 +93,7 @@ For production environments, you would obtain a certificate from a trusted CA. F
 - ✅ Modified HTTPS server code (`server_https.js`)
 - ✅ Certificate files (`server.cert`, `server.key` in `certs/` directory)
 - ✅ Report document (this README + separate report if needed)
-(screenshots/1.png)
+![screenshot](screenshots/1.png)
+
+
 
