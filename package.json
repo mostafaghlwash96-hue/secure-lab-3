@@ -1,0 +1,24 @@
+{
+  "name": "lab-3-ssl-tls",
+  "version": "1.0.0",
+  "description": "Lab 3: Implementing SSL/TLS on a Node.js Server",
+  "main": "server_https.js",
+  "scripts": {
+    "start": "node server.js",
+    "start:https": "node server_https.js",
+    "generate-cert": "node generate-cert.js"
+  },
+  "keywords": [
+    "ssl",
+    "tls",
+    "https",
+    "nodejs",
+    "security"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "selfsigned": "^2.1.1"
+  }
+}
+
